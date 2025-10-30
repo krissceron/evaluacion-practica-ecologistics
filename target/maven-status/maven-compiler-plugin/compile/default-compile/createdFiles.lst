@@ -1,0 +1,3 @@
+com\ecologistics\AppMain.class
+com\ecologistics\store\MemoryStore.class
+com\ecologistics\model\Envio.class
